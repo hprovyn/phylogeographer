@@ -1,0 +1,9 @@
+PHYLOGEOGRAPHER
+
+Computation of theoretical migration paths of uniparental lineages based on geolocated, dated samples and a tree with date estimates
+
+The current version is not usable by others, it contains hard-coded references to my data sources and file structure.
+
+In the future I plan to move all migration calculation logic to a package usable by other researchers.
+
+Description of how the algorithm computes the migration - https://phylogeographer.com/methodology/
